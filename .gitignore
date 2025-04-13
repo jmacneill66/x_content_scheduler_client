@@ -43,6 +43,15 @@ coverage/
 .tmp/
 temp/
 
+# venv for BE /app .py environment
+venv/
+env/
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
 # other files
 my_notes.txt
 x_content_scheduler_client.code-workspace
